@@ -7,18 +7,18 @@
 }
 
 @media screen and (max-width: 1024px) {
-    .photo-grid {
+    .photo-grid__item {
 	height: 225px;
     }
 }
 
 @media screen and (max-width: 768px) {
-    .photo-grid {
+    .photo-grid__item {
 	height: 264px;
     }
 }
 
 @media screen and (max-width: 450px) {
-    .photo-grid {
+    .photo-grid__item {
 	height: 216px;
 }
