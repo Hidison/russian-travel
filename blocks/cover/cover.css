@@ -8,21 +8,21 @@
 	margin: 92px 48px 92px 48px;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1024px) {
     .cover {
 	margin-left: 0;
 	margin-right: 0;
     }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 768px) {
     .cover {
     margin-top: 88px;
 	margin-bottom: 88px;
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
    .cover {
     margin-top: 64px;
 	margin-bottom: 64px;
